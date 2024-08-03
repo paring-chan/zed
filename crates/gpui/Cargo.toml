@@ -50,7 +50,7 @@ parking = "2.0.0"
 parking_lot.workspace = true
 postage.workspace = true
 profiling.workspace = true
-rand = { optional = true, workspace = true}
+rand = { optional = true, workspace = true }
 raw-window-handle = "0.6"
 refineable.workspace = true
 resvg = { version = "0.41.0", default-features = false }
